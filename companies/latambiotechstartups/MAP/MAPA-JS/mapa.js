@@ -316,6 +316,8 @@ function mostrarStartups(startups) {
           corrector = "Descripción";
         }else if(clave === "articulo"){
           corrector = "Artículo";
+        }}else{
+          corrector = clave;
         }
 
         etiqueta.textContent = `${corrector.replaceAll("_", " ")}: `;
