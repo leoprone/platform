@@ -301,8 +301,10 @@ function mostrarStartups(startups) {
         const etiqueta = document.createElement("span");
 
         let corrector = "";
-
-        if(clave === "pais"){
+    
+        if(clave === "nombre"){
+          corrector = "Nombre";
+        }else if(clave === "pais"){
           corrector = "País";
         }else if(clave === "fundacion"){
           corrector = "Año de fundación";
@@ -314,10 +316,12 @@ function mostrarStartups(startups) {
           corrector = "Producto o Servicio";
         }else if(clave === "descripcion"){
           corrector = "Descripción";
+        }else if(clave === "web"){
+          corrector = "Website";
+        }else if(clave === "linkedin"){
+          corrector = "LinkedIn";
         }else if(clave === "articulo"){
           corrector = "Artículo";
-        }else{
-          corrector = clave;
         }
 
         etiqueta.textContent = `${corrector.replaceAll("_", " ")}: `;
