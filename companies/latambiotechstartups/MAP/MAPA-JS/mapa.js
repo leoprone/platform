@@ -322,6 +322,8 @@ function mostrarStartups(startups) {
         etiqueta.classList.add("span-startups");
         fila.append(etiqueta);
 
+    console.log(corrector);
+
      if (["web", "articulo", "linkedin"].includes(clave)) {
         const textoURL = String(valor ?? "").trim();
 
