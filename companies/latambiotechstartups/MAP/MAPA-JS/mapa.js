@@ -316,7 +316,7 @@ function mostrarStartups(startups) {
           corrector = "Descripción";
         }else if(clave === "articulo"){
           corrector = "Artículo";
-        }}else{
+        }else{
           corrector = clave;
         }
 
