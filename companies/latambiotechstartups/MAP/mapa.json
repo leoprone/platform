@@ -1,0 +1,310 @@
+[
+  {
+    "pais": "🇦🇷 Argentina",
+    "nombre": "Abydos Bioscience",
+    "fundacion": "2025",
+    "campo_aplicacion": "Alimentación",
+  
+    "tecnologias": [
+      "Fermentación de precisión"
+      
+      
+    ],
+        "producto_servicio": [
+        "Sustituto de alimento tradicional"
+    ],
+      
+    "descripcion": "",
+    "web": "https://www.abydosbio.com/",
+    "linkedin": "https://www.linkedin.com/company/abydos-bioscience/",
+    "articulo": "../ARTICULOS/abydos_bioscience.html"
+   
+  },
+    {
+    "pais": "🇦🇷 Argentina",
+    "nombre": "Agrosintex",
+    "fundacion": "2023",
+    "campo_aplicacion": ["Ganadería", "Medio ambiente"],
+  
+    "tecnologias": [
+    "Modulación del microbioma",
+    "Encapsulación",
+    "Liberación controlada"
+  ],
+        "producto_servicio": [
+      "Aditivo alimenticio"
+      
+    ],
+    
+    "descripcion": "Agrosintex propone la elaboración de un complemento dietario capaz de reducir las emisiones de metano en ganado bovino de fácil implementación por los productores ganaderos.",   
+    "web": "https://www.agrosintex.com//",
+    "linkedin": "https://www.linkedin.com/company/agrosintex/",
+    "articulo": "../ARTICULOS/agrosintex.html"
+   
+  },
+  {
+    "pais": "🇦🇷 Argentina",
+    "nombre": "Amnova Biotech",
+    "fundacion": "2025",
+    "campo_aplicacion": "Salud humana",
+  
+    "tecnologias": [
+      "Terapia acelular", "Medicina regenerativa"
+      
+      
+    ],
+        "producto_servicio": [
+      "Biomateriales"
+      
+    ],
+    
+    "descripcion": "Amnova Biotech está desarrollando una terapia post-infarto que actuaría luego de haberse producido la cicatriz fibrosa cambiando el ambiente del tejido para que deje de comportarse como una cicatriz rígida y pase a ser un tejido más activo, vascularizado y reparable. De esta manera, se podría reducir esta cicatriz y estimular el repoblado del tejido con las propias células del paciente a fin de mejorar la función cardíaca, evitando llegar a la insuficiencia cardíaca y así preservar la calidad de vida.",   
+    "web": "https://www.amnova-biotech.com",
+    "linkedin": "https://www.linkedin.com/company/amnova-biotech/",
+    "articulo": "../ARTICULOS/amnova_biotech.html"
+   
+  },
+  {
+    "pais": "🇦🇷 Argentina",
+    "nombre": "ArgenTag",
+    "fundacion": "2020",
+    "campo_aplicacion": "",
+  
+    "tecnologias": [
+      "Single-cell", "Long-read sequencing"
+      
+      
+    ],
+        "producto_servicio": [
+      "", ""
+      
+    ],
+    
+    "descripcion": "Su tecnología permite secuenciar ARN mensajeros completos desde miles de células individuales, combinando precisión, escalabilidad y compatibilidad con plataformas ONT/PacBio ya disponibles en muchos labs (sin necesidad de dispositivos costosos adicionales). Los resultados llegan en cuestión de horas, no días como con los métodos de secuenciación actuales.",   
+    "web": "https://www./",
+    "linkedin": "https://www.linkedin.com/company//",
+    "articulo": "../ARTICULOS/.html"
+   
+  },
+  {
+    "pais": "🇦🇷 Argentina",
+    "nombre": "",
+    "fundacion": "202",
+    "campo_aplicacion": "",
+  
+    "tecnologias": [
+      "", ""
+      
+      
+    ],
+        "producto_servicio": [
+      "", ""
+      
+    ],
+    
+    "descripcion": "",   
+    "web": "https://www./",
+    "linkedin": "https://www.linkedin.com/company//",
+    "articulo": "../ARTICULOS/.html"
+   
+  },
+  {
+    "pais": "🇦🇷 Argentina",
+    "nombre": "",
+    "fundacion": "202",
+    "campo_aplicacion": "",
+  
+    "tecnologias": [
+      "", ""
+      
+      
+    ],
+        "producto_servicio": [
+      "", ""
+      
+    ],
+    
+    "descripcion": "",   
+    "web": "https://www./",
+    "linkedin": "https://www.linkedin.com/company//",
+    "articulo": "../ARTICULOS/.html"
+   
+  },
+  {
+    "pais": "🇦🇷 Argentina",
+    "nombre": "",
+    "fundacion": "202",
+    "campo_aplicacion": "",
+  
+    "tecnologias": [
+      "", ""
+      
+      
+    ],
+        "producto_servicio": [
+      "", ""
+      
+    ],
+    
+    "descripcion": "",   
+    "web": "https://www./",
+    "linkedin": "https://www.linkedin.com/company//",
+    "articulo": "../ARTICULOS/.html"
+   
+  },
+  {
+    "pais": "🇦🇷 Argentina",
+    "nombre": "",
+    "fundacion": "202",
+    "campo_aplicacion": "",
+  
+    "tecnologias": [
+      "", ""
+      
+      
+    ],
+        "producto_servicio": [
+      "", ""
+      
+    ],
+    
+    "descripcion": "",   
+    "web": "https://www./",
+    "linkedin": "https://www.linkedin.com/company//",
+    "articulo": "../ARTICULOS/.html"
+   
+  },
+  {
+    "pais": "🇦🇷 Argentina",
+    "nombre": "",
+    "fundacion": "202",
+    "campo_aplicacion": "",
+  
+    "tecnologias": [
+      "", ""
+      
+      
+    ],
+        "producto_servicio": [
+      "", ""
+      
+    ],
+    
+    "descripcion": "",   
+    "web": "https://www./",
+    "linkedin": "https://www.linkedin.com/company//",
+    "articulo": "../ARTICULOS/.html"
+   
+  },
+  {
+    "pais": "🇦🇷 Argentina",
+    "nombre": "",
+    "fundacion": "202",
+    "campo_aplicacion": "",
+  
+    "tecnologias": [
+      "", ""
+      
+      
+    ],
+        "producto_servicio": [
+      "", ""
+      
+    ],
+    
+    "descripcion": "",   
+    "web": "https://www./",
+    "linkedin": "https://www.linkedin.com/company//",
+    "articulo": "../ARTICULOS/.html"
+   
+  },
+  {
+    "pais": "🇦🇷 Argentina",
+    "nombre": "",
+    "fundacion": "202",
+    "campo_aplicacion": "",
+  
+    "tecnologias": [
+      "", ""
+      
+      
+    ],
+        "producto_servicio": [
+      "", ""
+      
+    ],
+    
+    "descripcion": "",   
+    "web": "https://www./",
+    "linkedin": "https://www.linkedin.com/company//",
+    "articulo": "../ARTICULOS/.html"
+   
+  },
+  {
+    "pais": "🇦🇷 Argentina",
+    "nombre": "",
+    "fundacion": "202",
+    "campo_aplicacion": "",
+  
+    "tecnologias": [
+      "", ""
+      
+      
+    ],
+        "producto_servicio": [
+      "", ""
+      
+    ],
+    
+    "descripcion": "",   
+    "web": "https://www./",
+    "linkedin": "https://www.linkedin.com/company//",
+    "articulo": "../ARTICULOS/.html"
+   
+  },
+  {
+    "pais": "🇦🇷 Argentina",
+    "nombre": "",
+    "fundacion": "202",
+    "campo_aplicacion": "",
+  
+    "tecnologias": [
+      "", ""
+      
+      
+    ],
+        "producto_servicio": [
+      "", ""
+      
+    ],
+    
+    "descripcion": "",   
+    "web": "https://www./",
+    "linkedin": "https://www.linkedin.com/company//",
+    "articulo": "../ARTICULOS/.html"
+   
+  },
+  {
+    "pais": "🇦🇷 Argentina",
+    "nombre": "",
+    "fundacion": "202",
+    "campo_aplicacion": "",
+  
+    "tecnologias": [
+      "", ""
+      
+      
+    ],
+        "producto_servicio": [
+      "", ""
+      
+    ],
+    
+    "descripcion": "",   
+    "web": "https://www./",
+    "linkedin": "https://www.linkedin.com/company//",
+    "articulo": "../ARTICULOS/.html"
+   
+  }
+    
+]
