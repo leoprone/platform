@@ -290,13 +290,37 @@ function mostrarStartups(startups) {
   .filter(([, valor]) => valor !== "" && !(Array.isArray(valor) && valor.length === 0))
   .forEach(([clave, valor]) => {
     
-      const fila = document.createElement("p");
+    /*   const fila = document.createElement("p");
       fila.classList.add("p-startups");
       const etiqueta = document.createElement("span");
       etiqueta.textContent = `${clave.replaceAll("_", " ")}: `;
       etiqueta.classList.add("span-startups");
-      fila.append(etiqueta);
-     
+      fila.append(etiqueta); */
+             const fila = document.createElement("p");
+        fila.classList.add("p-startups");
+        const etiqueta = document.createElement("span");
+
+        let corrector = "";
+
+        if(clave === "pais"){
+          corrector = "País";
+        }else if(clave === "fundacion"){
+          corrector = "Año de fundación";
+        }else if(clave === "campo_aplicacion"){
+          corrector = "Campo de aplicación";
+        }else if(clave === "tecnologias"){
+          corrector = "Tecnologías";
+        }else if(clave === "producto_servicio"){
+          corrector = "Producto o Servicio";
+        }else if(clave === "descripcion"){
+          corrector = "Descripción";
+        }else if(clave === "articulo"){
+          corrector = "Artículo";
+        }
+
+        etiqueta.textContent = `${corrector.replaceAll("_", " ")}: `;
+        etiqueta.classList.add("span-startups");
+        fila.append(etiqueta);
 
      if (["web", "articulo", "linkedin"].includes(clave)) {
         const textoURL = String(valor ?? "").trim();
